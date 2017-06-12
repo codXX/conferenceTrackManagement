@@ -1,10 +1,13 @@
 # conferenceTrackManagement
 
-
 ##环境
 
 * 开发工具:IntelliJ IDEA 14
-* JDK:
+* JDK:1.7
+* Maven:4.0.0
+* junit:4.12
+
+
 ##数据结构
 * track
 * session
@@ -20,6 +23,7 @@
 
 ##单元测试
 * TalkMangeTest
+* 项目根目录下执行 mvn clean test
 
 ##todo
 * session之间存在时间间隙,分配后需要做平衡操作
