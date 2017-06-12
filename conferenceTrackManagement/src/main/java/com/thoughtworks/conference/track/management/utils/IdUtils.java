@@ -3,7 +3,7 @@ package com.thoughtworks.conference.track.management.utils;
 import java.util.UUID;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class IdUtils {

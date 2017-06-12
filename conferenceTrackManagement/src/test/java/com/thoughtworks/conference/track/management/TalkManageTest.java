@@ -3,7 +3,7 @@ package com.thoughtworks.conference.track.management;
 import junit.framework.TestCase;
 
 /**
- * Created by xiaoqing on 17/6/11.
+ * Created by xq on 17/6/11.
  */
 public class TalkManageTest extends TestCase {
 

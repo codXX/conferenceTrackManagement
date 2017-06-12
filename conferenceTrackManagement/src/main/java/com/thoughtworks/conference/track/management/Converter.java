@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * convert talk_list.txt, In addition to Standard format
  *
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public interface Converter {

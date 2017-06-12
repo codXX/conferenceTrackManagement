@@ -1,7 +1,7 @@
 package com.thoughtworks.conference.track.management.constant;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public enum SessionType {

@@ -1,7 +1,7 @@
 package com.thoughtworks.conference.track.management.domain;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class Talk {

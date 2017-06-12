@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class TalkConverter implements Converter {

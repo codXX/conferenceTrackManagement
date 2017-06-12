@@ -8,7 +8,7 @@ import com.thoughtworks.conference.track.management.domain.Track;
 import java.util.List;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class TalkPrinter implements Printer {

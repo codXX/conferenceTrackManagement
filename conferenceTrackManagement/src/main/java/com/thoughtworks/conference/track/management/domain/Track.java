@@ -4,7 +4,7 @@ package com.thoughtworks.conference.track.management.domain;
 import java.util.List;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class Track {

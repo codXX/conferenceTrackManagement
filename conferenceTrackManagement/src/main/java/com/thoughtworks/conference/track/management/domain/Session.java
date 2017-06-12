@@ -5,7 +5,7 @@ import com.thoughtworks.conference.track.management.constant.SessionType;
 import java.util.List;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class Session {

@@ -8,7 +8,7 @@ import com.thoughtworks.conference.track.management.utils.TalkUtils;
 import java.util.*;
 
 /**
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public class TalkManage {

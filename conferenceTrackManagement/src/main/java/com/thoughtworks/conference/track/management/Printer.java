@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * print talk schedule
  *
- * @author xiaoqing
+ * @author xq
  * @since 17/6/11
  */
 public interface Printer {
